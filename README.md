@@ -19,3 +19,4 @@ Respects standards:
 Provides:
 
 - standalone tool
+- python library
